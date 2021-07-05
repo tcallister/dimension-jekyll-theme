@@ -26,6 +26,7 @@
 			height: 100%;
 		}
 
+        /*
 		&:before {
 			@include vendor('transition', 'background-color #{_duration(bg)} ease-in-out');
 			@include vendor('transition-delay', '#{_duration(intro)}');
@@ -39,6 +40,7 @@
 									repeat;
 			z-index: 2;
 		}
+        */
 
 		&:after {
 			@include vendor('transform', 'scale(1.125)');
