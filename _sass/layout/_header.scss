@@ -35,7 +35,7 @@
 				left: calc(50% - #{_size(border-width) * 1});
 				width: _size(border-width);
 				height: calc(3.5rem + 1px);
-				background: _titlepalette(border);
+				background: _palette(border);
 			}
 		}
 
@@ -51,7 +51,7 @@
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
-			border: solid _size(border-width) _titlepalette(border);
+			border: solid _size(border-width) _palette(border);
 			border-radius: 100%;
 
 			.icon {
@@ -63,7 +63,7 @@
 
 		.content {
 			border-style: solid;
-			border-color: _titlepalette(border);
+			border-color: _palette(border);
 			border-top-width: _size(border-width);
 			border-bottom-width: _size(border-width);
 			max-width: 100%;
@@ -98,12 +98,12 @@
 				margin-bottom: 0;
 				list-style: none;
 				padding-left: 0;
-				border: solid _size(border-width) _titlepalette(border);
+				border: solid _size(border-width) _palette(border);
 				border-radius: _size(border-radius);
 
 				li {
 					padding-left: 0;
-					border-left: solid _size(border-width) _titlepalette(border);
+					border-left: solid _size(border-width) _palette(border);
 
 					&:first-child {
 						border-left: 0;
@@ -121,11 +121,11 @@
 						border-bottom: 0;
 
 						&:hover {
-							background-color: _titlepalette(border-bg);
+							background-color: _palette(border-bg);
 						}
 
 						&:active {
-							background-color: _titlepalette(border-bg-alt);
+							background-color: _palette(border-bg-alt);
 						}
 					}
 				}
@@ -140,7 +140,7 @@
 					left: calc(50% - #{_size(border-width) * 1});
 					width: _size(border-width);
 					height: 100%;
-					background: _titlepalette(border);
+					background: _palette(border);
 				}
 
 				ul {
@@ -236,7 +236,7 @@
 
 					li {
 						border-left: 0;
-						border-top: solid _size(border-width) _titlepalette(border);
+						border-top: solid _size(border-width) _palette(border);
 
 						&:first-child {
 							border-top: 0;
