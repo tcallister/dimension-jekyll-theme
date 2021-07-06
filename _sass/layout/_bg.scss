@@ -42,7 +42,6 @@
 		}
         */
 
-        /*
 		&:after {
 			@include vendor('transform', 'scale(1.125)');
 			@include vendor('transition', (
@@ -55,14 +54,15 @@
 			background-repeat:		no-repeat;
 			z-index: 1;
 		}
-        */
 
+        /*
 		body.is-article-visible & {
 			&:after {
 				@include vendor('transform', 'scale(1.0825)');
 				@include vendor('filter', 'blur(0.2rem)');
 			}
 		}
+        */
 
 		body.is-preload & {
 			&:before {
