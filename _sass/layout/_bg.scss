@@ -42,20 +42,20 @@
 		}
         */
 
+        /*
 		&:after {
 			@include vendor('transform', 'scale(1.125)');
-            /*
 			@include vendor('transition', (
 				'transform #{_duration(article)} ease-in-out',
 				'filter #{_duration(article)} ease-in-out'
 			));
-            */
 			background-image:		url('../../assets/images/Gravitational-Wave.jpg');
 			background-position:	center;
 			background-size:		cover;
 			background-repeat:		no-repeat;
 			z-index: 1;
 		}
+        */
 
 		body.is-article-visible & {
 			&:after {
