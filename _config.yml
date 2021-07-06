@@ -2,7 +2,8 @@
 title: Tom Callister
 email: tcallister@flatironinstitute.org
 description:
-    Welcome to my webpage! 
+    <p>Welcome to my webpage!</p>
+    <p> I'm a Research Fellow at the Flatiron Institute's Center for Computational Astrophysics.</p>
 baseurl: "/dimension-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
