@@ -66,14 +66,14 @@
 
 				&:hover {
 					&:before {
-						/*background-color: _palette(border-bg);*/
-						background-color: #a1b1e6;
+						background-color: _palette(border-bg);
 					}
 				}
 
 				&:active {
 					&:before {
-						background-color: _palette(border-bg-alt);
+						/*background-color: _palette(border-bg-alt);*/
+						background-color: #a1b1e6;
 					}
 				}
 			}
