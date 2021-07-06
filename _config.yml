@@ -5,6 +5,7 @@ description:
     <p>Welcome to my webpage!</p>
     <p>
     I'm a Research Fellow at the Flatiron Institute's Center for Computational Astrophysics.
+    I enjoy thinking about the detection, analysis, and interpretation of gravitational waves.
         
 baseurl: "/dimension-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
