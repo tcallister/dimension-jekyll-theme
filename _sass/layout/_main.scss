@@ -25,7 +25,7 @@
 			));
 			@include padding(2.5rem, 2.5rem, (2rem, 0, 1rem, 0));
 			position: relative;
-			width: 100rem; /* Testing pop-out page width */
+			width: 60rem; /* Pop-out page width */
 			max-width: 100%;
 			background-color: transparentize(#a1b1e6, 0.15); /* Pop-out background color */
 			border-radius: _size(border-radius);
