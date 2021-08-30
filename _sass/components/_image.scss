@@ -27,6 +27,10 @@
 			width: 100%;
 		}
 
+        portrait {
+            border-radius: 80%;
+        }
+
 		img {
 			border-radius: _size(border-radius);
 			display: block;
