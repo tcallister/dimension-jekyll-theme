@@ -6,6 +6,11 @@
 
 /* Image */
 
+    .portrait {
+        border-radius: 80%;
+    }
+
+
 	.image {
 		border-radius: _size(border-radius);
 		border: 0;
@@ -26,10 +31,6 @@
 			top: 0;
 			width: 100%;
 		}
-
-        portrait {
-            border-radius: 80%;
-        }
 
 		img {
 			border-radius: _size(border-radius);

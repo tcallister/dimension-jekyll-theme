@@ -2,7 +2,7 @@
 title: About
 ---
 
-<span class="image portrait">
+<span class="portrait">
 <img src="assets/images/me.jpg" align="left" width="150px" style="margin: 0px 30px 30px 0px;"/>
 </span>
 
