@@ -1,8 +1,10 @@
 ---
-title: "About Me"
+title: About
 ---
 
+<span class="image main">
 <img src="assets/images/me.jpg" align="left" width="150px" style="margin: 0px 30px 30px 0px;"/>
+</span>
 
 I'm a Research Fellow at the Flatiron Institute's Center for Computational Astrophysics in New York City.
 
@@ -11,6 +13,6 @@ Nearly infinitesimal ripples in the fabric of spacetime, gravitational waves are
 My interests lie in the continued search for gravitational waves, the development of new and more powerful detection methods, and the use of gravitational waves as tools with which to answer novel astrophysical questions.
 
 Before arriving at the Flatiron, I attended Carleton College in Northfield, MN.
-I then spent one year at the University of Cambridge, completing an M. Phil. and funded by a Churchill Scholarship, before moving to Caltech to complete my Ph.D. in Physics.
+I then spent one year at the University of Cambridge, funded by a Churchill Scholarship, before moving to Caltech to complete my Ph.D. in Physics in the LIGO Laboratory group.
 
 
