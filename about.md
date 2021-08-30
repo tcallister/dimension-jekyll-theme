@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: "About Me"
 ---
 
 <img src="assets/images/me.jpg" align="left" width="150px" style="margin: 0px 30px 30px 0px;"/>
