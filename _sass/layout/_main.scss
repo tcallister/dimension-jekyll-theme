@@ -27,7 +27,7 @@
 			position: relative;
 			width: 60rem; /* Pop-out page width */
 			max-width: 100%;
-			background-color: transparentize(#ffffff, 0.1); /* Pop-out background color */
+			background-color: transparentize(#ffffff, 0.25); /* Pop-out background color */
 			border-radius: _size(border-radius);
 			opacity: 0;
 
