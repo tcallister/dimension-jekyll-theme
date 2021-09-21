@@ -7,8 +7,8 @@ image: waveform.jpg
 
 <ul class="alt">
     <li>
-    Who Ordered That? Unequal-mass binary black hole mergers have larger effective spins.  
-    **T. Callister**, C. J. Haster, K. Y. Ng, S. Vitale, W. Farr
+    Who Ordered That? Unequal-mass binary black hole mergers have larger effective spins.\
+    <b>T. Callister</b>, C. J. Haster, K. Y. Ng, S. Vitale, W. Farr
     {Submitted to ApJ.}
     {2106.00521}
     {https://arxiv.org/abs/2106.00521}
