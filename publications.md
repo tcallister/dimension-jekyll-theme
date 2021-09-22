@@ -9,7 +9,7 @@ image: waveform.jpg
     <li>
     Who Ordered That? Unequal-mass binary black hole mergers have larger effective spins.<br>
     <b>T. Callister</b>, C. J. Haster, K. Y. Ng, S. Vitale, and W. Farr.
-    Submitted to ApJL.
+    <it>Submitted to ApJL</it>.
     ArXiv: <a href="https://arxiv.org/abs/2106.00521">2106.00521</a>
     </li>
     <li>
@@ -19,8 +19,20 @@ image: waveform.jpg
     <li>
     Implications for first-order cosmological phase transitions from the third LIGO-Virgo observing run.<br>
     A. Romero, K. Martinovic, <b>T. Callister</b>, et al.
-    Physical Review Letters 126, 151301 (2021).
+    <it>Physical Review Letters</it> 126, 151301 (2021).
     ArXiv: <a href="https://arxiv.org/abs/2102.01714">2102.01714</a>
+    </li>
+    <li>
+    Prospects of gravitational-wave detections from common-envelope evolution with LISA.<br>
+    M. Renzo, <b>T. Callister</b>, K. Chatziioannou, L. A. C. van Son, et al.
+    Accepted by ApJ.
+    ArXiv: <a href="https://arxiv.org/abs/2102.00078">2102.00078</a>
+    </li>
+    <li>
+    Upper Limits on the Isotropic Gravitational-Wave Background from Advanced LIGO's and Advanced Virgo's Third Observing Run.</br>
+    LIGO, Virgo, and KAGRA Collaborations (<b>Writing Team \& Core Analyst</br>).
+    <it>Phys. Rev. D</it> 104, 022004 (2021).
+    ArXiv: <a href="https://arxiv.org/abs/2101.12130">2101.12130</a>
     </li>
 </ul>
 
