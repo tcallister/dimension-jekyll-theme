@@ -36,13 +36,13 @@ image: waveform.jpg
     </li>
     <li>
     When are LIGO/Virgo's Big Black-Hole Mergers?<br>
-    M. Fishbach, Z. Doctor, **T. Callister**, et al.
+    M. Fishbach, Z. Doctor, <b>T. Callister</b>, et al.
     <i>Astrophys. J.</i> 912, 98 (2021).
     ArXiv: <a href="https://arxiv.org/abs/2101.07699">2101.07699</a>
     </li>
     <li>
     State of the field: Binary black hole spins, natal kicks, and prospects for isolated field formation after GWTC-2.<br>
-    **T. Callister**, W. M. Farr, M. Renzo.
+    <b>T. Callister</b>, W. M. Farr, M. Renzo.
     <i>Accepted in ApJ.</i>
     ArXiv: <a href="https://arxiv.org/abs/2011.0957">2011.09570</a>
     </li>
