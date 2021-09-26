@@ -5,7 +5,7 @@ image: waveform.jpg
 
 <h4>Selected Publications</h4>
 
-<h5>2021</h5>
+<h4>2021</h4>
 <ul class="alt">
     <li>
     Who Ordered That? Unequal-mass binary black hole mergers have larger effective spins.<br>
@@ -61,7 +61,7 @@ image: waveform.jpg
     </li>
 </ul>
 
-<h5>2020</h5>
+<h4>2020</h4>
 <ul class="alt">
     <li>
     Shouts and Murmurs: Combining Individual Gravitational-Wave Sources with the Stochastic Background to Measure the History of Binary Black Hole Mergers.<br>
@@ -77,7 +77,7 @@ image: waveform.jpg
     </li>
 </ul>
 
-<h5>2019</h5>
+<h4>2019</h4>
 <ul class="alt">
     <li>
     A First Search for Prompt Radio Emission from a Gravitational-Wave Event.<br>
@@ -99,6 +99,56 @@ image: waveform.jpg
     </li>
 </ul>
 
+<h4>2018</h4>
+<ul class="alt">
+    <li>
+    Gravitational-Wave Geodesy: A New Tool for Validating Detection of the Stochastic Gravitational-Wave Background.<br>
+    <b>T. A. Callister</b>, M. W. Coughlin, J. B. Kanner.
+    <i>Astrophys. J. Letters</i> 869, L28 (2018).
+    ArXiv: <a href="https://arxiv.org/abs/1808.03716">1808.03716</a>
+    </li>
+    <li>
+    A Search for Tensor, Vector, and Scalar Polarizations in the Stochastic Gravitational-Wave Background. 
+    LIGO Scientific Collaboration and Virgo Collaboration (<b>Lead Author</b>).
+    <i>Phys. Rev. Lett.</i> 120, 201102 (2018).
+    ArXiv: <a href="https://arxiv.org/abs/1802.10194">1802.10194</a>
+    </li>
+    <li>
+    Identification and mitigation of narrow spectral artifacts that degrade searches for persistent gravitational waves in the first two observing runs of Advanced LIGO.<br>
+    P. B. Covas et al. (incl. <b>T. Callister</b>)
+    <i>Phys. Rev. D</i> 97, 082002 (2018).
+    ArXiv: <a href="https://arxiv.org/abs/1801.07204">1801.07204</a>
+    </li>
+</ul>
 
+<h4>2017</h4>
+<ul class="alt">
+    <li>
+    Polarization-based tests of gravity with the stochastic gravitational-wave background. 
+    <b>T. Callister</b>, S. A. Biscoveanu, N. Christensen, M. Isi, A. Matas, et al.
+    <i>Phys. Rev. X</i> 7, 041058 (2017).
+    ArXiv: <a href="https://arxiv.org/abs/1704.08373">1704.08373</a>
+    </li>
+    <li>
+    Observing gravitational waves with a single detector.
+    <b>T. A. Callister</b>, J. B. Kanner, T. J. Massinger, S. Dhurandhar, and A. J. Weinstein.
+    <i>Class. Quantum Grav.</i> 34, 155007 (2017).
+    ArXiv: <a href="https://arxiv.org/abs/1704.00818">1704.00818</a>
+    </li>
+</ul>
 
-
+<h4>2016</h4>
+<ul class="alt">
+    <li>
+    Limits of astrophysics with gravitational-wave backgrounds.<br>
+    <b>T. Callister</b>, L. Sammut, S. Qiu, I. Mandel, and E. Thrane.
+    <i>Phys. Rev. X</i> 6, 031018 (2016).
+    ArXiv: <a href="https://arxiv.org/abs/1604.02513">1604.02513</a>
+    </li>
+    <li>
+    Gravitational-wave constraints on the progenitors of fast radio bursts.<br>
+    <b>T. Callister</b>, J. Kanner, and A. Weinstein.
+    <i>Astrophys. J. Letters</i> 825, L12 (2016).
+    ArXiv: <a href="https://arxiv.org/abs/1603.08867">1603.08867</a>
+    </li>
+</ul>
