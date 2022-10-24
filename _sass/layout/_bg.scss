@@ -59,7 +59,7 @@
 			&:after {
 				@include vendor('transform', 'scale(1.0825)');
 				@include vendor('filter', 'blur(0.2rem)');
-				@include vendor('filter', 'opacity(0%)');
+				@include vendor('filter', 'opacity(0)');
 			}
 		}
 
