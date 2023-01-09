@@ -34,4 +34,5 @@ markdown: kramdown
 sass:
 style: compressed
 
-plugins_dir: jekyll-sitemap
+#plugins_dir: jekyll-sitemap
+plugins: jekyll-sitemap
