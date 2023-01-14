@@ -5,24 +5,58 @@ image: waveform.jpg
 
 <h4>Selected Publications</h4>
 
+<h4>2022</h4>
+<ul class="alt">
+    <li>
+    No evidence that the majority of black holes in binaries have zero spin.
+    <b>T. Callister</b>, S. Miller, K. Chatziioannou, W. Farr.
+    <i>Astrophys. J. Letters</i> 937, L13 (2022).
+    ArXiv <a href="https://arxiv.org/abs/2205.08574">2205.08574</a>
+    </li>
+    <li>
+    The binary black hole spin distribution likely broadens with redshift.
+    S. Biscoveanu, <b>T. Callister</b>, C. J. Haster, <i>et al.</i>
+    <i>Astrophys. J. Letters</i> 932, L19 (2022)
+    ArXiv: <a href="https://arxiv.org/abs/2204.01578">2204.01578</a>
+    </li>
+    <li>
+    Gravitational-wave geodesy: Defining false alarm probabilies with respect to correlated noise.<br>
+    K. Janssens, <b>T. Callister</b>, N. Christensen, <i>et al.</i>
+    <i>Phys. Rev. D</i> 105, 082001 (2022).
+    ArXiv: <a href="https://arxiv.org/abs/2112.03560">2112.03560</a>
+    </li>
+    <li>
+    The population of merging compact binaires inferred using gravitational waves through GWTC-3.<br>
+    LIGO, Virgo, and KAGRA Collaborations (<b>Writing Team & Core Analyst</b>).
+    <i>PRX, in press</i>
+    ArXiv: <a href="https://arxiv.org/abs/2111.03634">2111.03634</a>
+    </li>
+    <li>
+    The redshift evolution of the binary black hole merger rate: a weighty matter.<br>
+    L. van Son, S. de Mink, <b> T. Callister</b>, <i> et al.</i>
+    <i>Astrophysical J.</i> 931, 17 (2022).
+    ArXiv: <a href="https://arxiv.org/abs/2110.01634">2110.01634</a>
+    </li>
+</ul>
+
 <h4>2021</h4>
 <ul class="alt">
     <li>
     Who Ordered That? Unequal-mass binary black hole mergers have larger effective spins.<br>
     <b>T. Callister</b>, C. J. Haster, K. Y. Ng, S. Vitale, and W. Farr.
-    <i>Submitted to ApJL</i>.
+    <i>Astrophysical J. Letters</i> 922, L5 (2021).
     ArXiv: <a href="https://arxiv.org/abs/2106.00521">2106.00521</a>
     </li>
     <li>
     Prospects of gravitational-wave detections from common-envelope evolution with LISA.<br>
     M. Renzo, <b>T. Callister</b>, K. Chatziioannou, L. A. C. van Son, et al.
-    <i>In press, ApJ</i>.
+    <i>Astrophysical J.</i> 919, 128 (2021).
     ArXiv: <a href="https://arxiv.org/abs/2102.00078">2102.00078</a>
     </li>
     <li>
     State of the field: Binary black hole spins, natal kicks, and prospects for isolated field formation after GWTC-2.<br>
     <b>T. Callister</b>, W. M. Farr, M. Renzo.
-    <i>In press, ApJ.</i>
+    <i>Astrophysical J.</i> 920, 157 (2021).
     ArXiv: <a href="https://arxiv.org/abs/2011.0957">2011.09570</a>
     </li>
     <li>
