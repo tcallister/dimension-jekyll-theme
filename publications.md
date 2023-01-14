@@ -8,13 +8,13 @@ image: waveform.jpg
 <h4>2022</h4>
 <ul class="alt">
     <li>
-    No evidence that the majority of black holes in binaries have zero spin.
+    No evidence that the majority of black holes in binaries have zero spin.<br>
     <b>T. Callister</b>, S. Miller, K. Chatziioannou, W. Farr.
     <i>Astrophys. J. Letters</i> 937, L13 (2022).
     ArXiv <a href="https://arxiv.org/abs/2205.08574">2205.08574</a>
     </li>
     <li>
-    The binary black hole spin distribution likely broadens with redshift.
+    The binary black hole spin distribution likely broadens with redshift.<br>
     S. Biscoveanu, <b>T. Callister</b>, C. J. Haster, <i>et al.</i>
     <i>Astrophys. J. Letters</i> 932, L19 (2022)
     ArXiv: <a href="https://arxiv.org/abs/2204.01578">2204.01578</a>
