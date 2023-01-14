@@ -57,7 +57,7 @@ image: waveform.jpg
     State of the field: Binary black hole spins, natal kicks, and prospects for isolated field formation after GWTC-2.<br>
     <b>T. Callister</b>, W. M. Farr, M. Renzo.
     <i>Astrophysical J.</i> 920, 157 (2021).
-    ArXiv: <a href="https://arxiv.org/abs/2011.0957">2011.09570</a>
+    ArXiv: <a href="https://arxiv.org/abs/2011.09570">2011.09570</a>
     </li>
     <li>
     A Thesaurus for Common Priors in Gravitational-Wave Astronomy.<br>
