@@ -5,6 +5,44 @@ image: waveform.jpg
 
 <h4>Selected Publications</h4>
 
+<h4>2024</h4>
+<ul class="alt">
+    <li>
+    Gravitational waves carry information beyond effective spin parameters but it is hard to extract.</br>
+    S. Miller, Z. Koe, <b>T. Callister</b>, K. Chatziioannou.
+    <i>Submitted to Phys. Rev. D</i>.
+    ArXiv <a href="https://arxiv.org/abs/2401.05613">2401.05613</a>
+    </li>
+</ul>
+
+<h4>2023</h4>
+<ul class="alt">
+    <li>
+    A New Probe of Gravitational Parity Violation Through (Non-)Observation of the Stochastic Gravitational- Wave Background.</br>
+    <b>T. Callister</b>, L. Jenks, D. Holz, N. Yunes.
+    <i>Submitted to Phys. Rev. X</i>.
+    ArXiv <a href="https://arxiv.org/abs/2312.12532">2312.12532</a>
+    </li>
+    <li>
+    The metallicity dependence and evolutionary times of merging binary black holes: Combined constraints from individual gravitational-wave detections and the stochastic background.</br>
+    K. Turbang, M. Lalleman, <b>T. Callister</b>, N. van Remortel.
+    <i>Submitted to ApJ</i>.
+    ArXiv <a href="https://arxiv.org/abs/2310.17625">2310.17625</a>
+    </li>
+    <li>
+    A parameter-free tour of the binary black hole population.<br>
+    <b>T. Callister</b>, W. Farr.
+    <i>Phys. Rev. X</i> (In Press).
+    ArXiv <a href="https://arxiv.org/abs/2302.07289">2302.07289</a>
+    </li>
+    <li>
+    The population of merging compact binaires inferred using gravitational waves through GWTC-3.<br>
+    LIGO, Virgo, and KAGRA Collaborations (<b>Writing Team & Core Analyst</b>).
+    <i>Phys. Rev. X</i> 13, 011048 (2023).
+    ArXiv: <a href="https://arxiv.org/abs/2111.03634">2111.03634</a>
+    </li>
+</ul>
+
 <h4>2022</h4>
 <ul class="alt">
     <li>
@@ -26,16 +64,16 @@ image: waveform.jpg
     ArXiv: <a href="https://arxiv.org/abs/2112.03560">2112.03560</a>
     </li>
     <li>
-    The population of merging compact binaires inferred using gravitational waves through GWTC-3.<br>
-    LIGO, Virgo, and KAGRA Collaborations (<b>Writing Team & Core Analyst</b>).
-    <i>PRX, in press</i>
-    ArXiv: <a href="https://arxiv.org/abs/2111.03634">2111.03634</a>
-    </li>
-    <li>
     The redshift evolution of the binary black hole merger rate: a weighty matter.<br>
     L. van Son, S. de Mink, <b> T. Callister</b>, <i> et al.</i>
     <i>Astrophysical J.</i> 931, 17 (2022).
     ArXiv: <a href="https://arxiv.org/abs/2110.01634">2110.01634</a>
+    </li>
+    <li>
+    LIGO-Virgo correlations between mass ratio and effective inspiral spin: testing the active galactic nuclei channel.<br>
+    B. McKernan, K. E. S. Ford, <b> T. Callister</b>, <i> et al.</i>
+    <i>Mon. Not. Roy. Astron. Soc.</i> 514, 3886 (2022).
+    ArXiv: <a href="https://arxiv.org/abs/2107.07551">2107.07551</a>
     </li>
 </ul>
 
